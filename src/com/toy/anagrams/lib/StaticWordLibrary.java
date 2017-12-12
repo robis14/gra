@@ -41,7 +41,7 @@ final class StaticWordLibrary extends WordLibrary {
         "ambiguous",
         "arithmetic",
         "backslash",
-        "bitmap",
+
         "circumstance",
         "combination",
         "consequently",
