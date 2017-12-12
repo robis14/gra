@@ -37,12 +37,60 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
+<<<<<<< HEAD
         "andrzej",
         "błażej",
         "jajko",
         "krzesło",
         "samochód",
      };
+=======
+        "abstraction",
+        "ambiguous",
+        "arithmetic",
+        "backslash",
+
+        "circumstance",
+        "combination",
+        "consequently",
+        "consortium",
+        "decrementing",
+        "dependency",
+        "disambiguate",
+        "dynamic",
+        "encapsulation",
+        "equivalent",
+        "expression",
+        "facilitate",
+        "fragment",
+        "hexadecimal",
+        "implementation",
+        "indistinguishable",
+        "inheritance",
+        "internet",
+        "java",
+        "localization",
+        "microprocessor",
+        "navigation",
+        "optimization",
+        "parameter",
+        "patrick",
+        "pickle",
+        "polymorphic",
+        "rigorously",
+        "simultaneously",
+        "specification",
+        "structure",
+        "lexical",
+        "likewise",
+        "management",
+        "manipulate",
+        "mathematics",
+        "hotjava",
+        "vertex",
+        "unsigned",
+        "traditional"};
+>>>>>>> asdasd
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "rzejand",
